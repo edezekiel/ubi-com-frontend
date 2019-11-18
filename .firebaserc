@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ubi-com-frontend": {
+      "hosting": {
+        "ubi-com-frontend": [
+          "ubi-com-frontend"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "staging": "ubi-com-frontend"
+  }
+}

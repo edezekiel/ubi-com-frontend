@@ -122,8 +122,13 @@
               "devServerTarget": "ubi-com-frontend:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "ubi-com-frontend"
 }
